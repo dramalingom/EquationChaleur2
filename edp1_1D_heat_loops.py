@@ -6,6 +6,7 @@ Created on Tue Nov 15 08:46:37 2022
 @author: delphine
 """
 # 1D heat equation with loops
+# récupéré sur internet
 
 import numpy as np
 import matplotlib.pyplot as plt
